@@ -1,4 +1,2 @@
-# KT
-*discord*
-https://discord.gg/uBhTBaQy4K
+# ikaclient net Lol
 
